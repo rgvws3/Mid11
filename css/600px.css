@@ -1,0 +1,27 @@
+#page {width:600px; margin:0 auto}
+
+#content1, #content2 { width:280px; float:left; margin:10px 0;}
+
+#content3 {clear:both;}
+
+section { background-color:#000; margin:10px 0 10px 0; position:relative;}
+#largeImage { margin:10px 0 0 0; width:100%; background:#000  }
+
+#largeImage img { width:100%; margin:0; padding:0;  }
+
+img{ max-width:100%;}
+
+
+#b1 { height:275px; width:60%; float:left;}
+#b2 { height:275px; width:35%; float:left;}
+#b3 { height:275px; width:35%; float:left;}
+#b4 { height:275px; width:60%; float:left;}
+#b5 { height:275px; width:60%; float:left;}
+#b6 { height:275px; width:35%; float:left;}
+
+
+
+
+
+
+#footer {clear:both;}
